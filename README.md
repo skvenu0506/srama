@@ -1,0 +1,2 @@
+# srama
+git gub rama
